@@ -31,3 +31,4 @@ E:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payrol
 E:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.genruntimeconfig.cache
 E:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\ref\Payroll Management App.dll
 E:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll_Management_App.EmployeeRegForm.resources
+E:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.sourcelink.json
