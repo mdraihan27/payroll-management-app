@@ -1,0 +1,57 @@
+
+
+
+
+
+Month:July - Year:2025 - Bonus:12%
+==================================================================================================================
+Employee ID: EMP001
+Employee Name: Dr. Md. Nasim Adnan
+Base Salary: 75000.00
+Salary after Bonus: 84000.00
+Allowances:
+  House Rent Allowance: 1.00
+  Medical Allowance: 2.00
+  Education Allowance: 3.00
+  Telephone Allowance: 4.00
+  Festival Bonus: 5.00
+  Transport Allowance: 6.00
+  Others Allowance: 0.00
+  Total Allowances: 21.00
+Deductions:
+  GPF: 4.00
+  House Rent Deduction: 5.00
+  Insurance Premium: 6.00
+  Electricity Bill: 0.00
+  Transport Bill: 0.00
+  Income Tax: 0.00
+  Others Deduction: 0.00
+  Total Deductions: 15.00
+Final Salary: 84006.00
+--------------------------------------------------
+Employee ID: EMP002
+Employee Name: Md. Kamrul Islam
+Base Salary: 75000.00
+Salary after Bonus: 84000.00
+Allowances:
+  House Rent Allowance: 0.00
+  Medical Allowance: 0.00
+  Education Allowance: 0.00
+  Telephone Allowance: 0.00
+  Festival Bonus: 0.00
+  Transport Allowance: 0.00
+  Others Allowance: 0.00
+  Total Allowances: 0.00
+Deductions:
+  GPF: 0.00
+  House Rent Deduction: 0.00
+  Insurance Premium: 2.00
+  Electricity Bill: 3.00
+  Transport Bill: 5.00
+  Income Tax: 6.00
+  Others Deduction: 7.00
+  Total Deductions: 23.00
+Final Salary: 83977.00
+--------------------------------------------------
+
+

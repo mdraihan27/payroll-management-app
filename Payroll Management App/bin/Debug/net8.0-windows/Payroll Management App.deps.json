@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Payroll Management App/1.0.0": {
+        "runtime": {
+          "Payroll Management App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Payroll Management App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
