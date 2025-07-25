@@ -1,0 +1,2 @@
+EMP001,Dr. Md. Nasim Adnan,Teacher,Assistant Professor,75000,01387284784,Jashore,Dhaka, 25 June 1980,Male
+EMP002,Md. Kamrul Islam,Teacher,Associate Professor,75000,01829393,Jashore,Dhaka, 24 March 1991,Male

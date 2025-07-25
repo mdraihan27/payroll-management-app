@@ -1,0 +1,103 @@
+D:\Payroll Management App\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.exe
+D:\Payroll Management App\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.deps.json
+D:\Payroll Management App\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.runtimeconfig.json
+D:\Payroll Management App\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.dll
+D:\Payroll Management App\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.pdb
+D:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll_Management_App.Form1.resources
+D:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.csproj.GenerateResource.cache
+D:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.AssemblyInfoInputs.cache
+D:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.AssemblyInfo.cs
+D:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.csproj.CoreCompileInputs.cache
+D:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.dll
+D:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\refint\Payroll Management App.dll
+D:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.pdb
+D:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.genruntimeconfig.cache
+D:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\ref\Payroll Management App.dll
+E:\Payroll Management App\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.exe
+E:\Payroll Management App\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.deps.json
+E:\Payroll Management App\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.runtimeconfig.json
+E:\Payroll Management App\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.dll
+E:\Payroll Management App\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.pdb
+E:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll_Management_App.HomePage.resources
+E:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.csproj.GenerateResource.cache
+E:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.GeneratedMSBuildEditorConfig.editorconfig
+E:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.AssemblyInfoInputs.cache
+E:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.AssemblyInfo.cs
+E:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.csproj.CoreCompileInputs.cache
+E:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.dll
+E:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\refint\Payroll Management App.dll
+E:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.pdb
+E:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.genruntimeconfig.cache
+E:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\ref\Payroll Management App.dll
+E:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll_Management_App.EmployeeRegForm.resources
+E:\Payroll Management App\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.sourcelink.json
+C:\Users\USER\Downloads\payroll-management-app-main\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.exe
+C:\Users\USER\Downloads\payroll-management-app-main\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.deps.json
+C:\Users\USER\Downloads\payroll-management-app-main\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.runtimeconfig.json
+C:\Users\USER\Downloads\payroll-management-app-main\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.dll
+C:\Users\USER\Downloads\payroll-management-app-main\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.pdb
+C:\Users\USER\Downloads\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll_Management_App.EmployeeRegForm.resources
+C:\Users\USER\Downloads\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll_Management_App.HomePage.resources
+C:\Users\USER\Downloads\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.AssemblyInfo.cs
+C:\Users\USER\Downloads\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.dll
+C:\Users\USER\Downloads\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\refint\Payroll Management App.dll
+C:\Users\USER\Downloads\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.pdb
+C:\Users\USER\Downloads\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.genruntimeconfig.cache
+C:\Users\USER\Downloads\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\ref\Payroll Management App.dll
+E:\payroll-management-app-main\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.exe
+E:\payroll-management-app-main\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.deps.json
+E:\payroll-management-app-main\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.runtimeconfig.json
+E:\payroll-management-app-main\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.dll
+E:\payroll-management-app-main\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.pdb
+E:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll_Management_App.EmployeeRegForm.resources
+E:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll_Management_App.HomePage.resources
+E:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.csproj.GenerateResource.cache
+E:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.GeneratedMSBuildEditorConfig.editorconfig
+E:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.AssemblyInfoInputs.cache
+E:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.AssemblyInfo.cs
+E:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.csproj.CoreCompileInputs.cache
+E:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.dll
+E:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\refint\Payroll Management App.dll
+E:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.pdb
+E:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.genruntimeconfig.cache
+E:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\ref\Payroll Management App.dll
+G:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll_Management_App.EmployeeRegForm.resources
+G:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll_Management_App.HomePage.resources
+G:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.csproj.GenerateResource.cache
+G:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.GeneratedMSBuildEditorConfig.editorconfig
+G:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.AssemblyInfoInputs.cache
+G:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.AssemblyInfo.cs
+G:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.csproj.CoreCompileInputs.cache
+G:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.dll
+G:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\refint\Payroll Management App.dll
+G:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.pdb
+G:\payroll-management-app-main\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.exe
+G:\payroll-management-app-main\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.deps.json
+G:\payroll-management-app-main\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.runtimeconfig.json
+G:\payroll-management-app-main\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.dll
+G:\payroll-management-app-main\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.pdb
+G:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.genruntimeconfig.cache
+G:\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\ref\Payroll Management App.dll
+W:\payroll-management-app-main\payroll-management-app-main\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.exe
+W:\payroll-management-app-main\payroll-management-app-main\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.deps.json
+W:\payroll-management-app-main\payroll-management-app-main\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.runtimeconfig.json
+W:\payroll-management-app-main\payroll-management-app-main\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.dll
+W:\payroll-management-app-main\payroll-management-app-main\Payroll Management App\bin\Debug\net8.0-windows\Payroll Management App.pdb
+W:\payroll-management-app-main\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll_Management_App.EmployeeRegForm.resources
+W:\payroll-management-app-main\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll_Management_App.HomePage.resources
+W:\payroll-management-app-main\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.csproj.GenerateResource.cache
+W:\payroll-management-app-main\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.GeneratedMSBuildEditorConfig.editorconfig
+W:\payroll-management-app-main\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.AssemblyInfoInputs.cache
+W:\payroll-management-app-main\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.AssemblyInfo.cs
+W:\payroll-management-app-main\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.csproj.CoreCompileInputs.cache
+W:\payroll-management-app-main\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.dll
+W:\payroll-management-app-main\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\refint\Payroll Management App.dll
+W:\payroll-management-app-main\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.pdb
+W:\payroll-management-app-main\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll Management App.genruntimeconfig.cache
+W:\payroll-management-app-main\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\ref\Payroll Management App.dll
+W:\payroll-management-app-main\payroll-management-app-main\Payroll Management App\obj\Debug\net8.0-windows\Payroll_Management_App.EmployeeAllowancesDeductions.resources
